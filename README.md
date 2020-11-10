@@ -1,5 +1,5 @@
 # ntua-databases
-A Car Rental Company website, as part of our Databases course.
+A car-rental website, as part of our Databases course.
 
 Site functionalities: Add, update and delete cars and employees, client signin and signup, make reservation
 
